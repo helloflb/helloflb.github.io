@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 Hello, and welcome to my personal webpage!
+
+I am a Ph.D. student in the INTR thrust at HKUST. My research interest is port optimization, where I explore ways to improve the efficiency and sustainability of container port operations.
 
 I'm thrilled to have you here, and I hope you will find something interesting or useful in the projects I've shared. This page is where I showcase my work, share my thoughts, and connect with the broader community of developers and enthusiasts.
 
