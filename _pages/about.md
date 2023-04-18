@@ -20,5 +20,4 @@ But this page isn't just about me. It's also about building connections and fost
 
 Thank you for stopping by and taking the time to learn more about me and my work. Feel free to explore the projects, read the blog posts, and connect with me on social media. I'm excited to be part of this vibrant and dynamic community, and I look forward to hearing from you!
 
-Best regards,
-Lubin FAN
+
